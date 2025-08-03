@@ -27,5 +27,6 @@
 - Google Chrome - Used from time to time
 - KeePassXC - Local password manager
 - Syncthing - Synchronize all files between laptop and phone
+- LocalSend - Transfer files over network between laptop and phone
 
 
