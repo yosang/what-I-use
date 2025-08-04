@@ -14,14 +14,14 @@ Tech I rely on.
 
 # Software
 ### Linux Essentials
-- [Alacritty](https://alacritty.org/) - Terminal Emulator of choice
+- [Alacritty](https://alacritty.org/) - Terminal of choice
 - Wine - Run windows applications that do no provide a Linux solution.
 - htop - Proccess monitoring
 
 ### General
 - VLC - Media player of choice
 - Thunderbird - Email client of choice
-- LibreWolf - Browser of coice due to its privacy settings.
+- LibreWolf - Browser of choice due to its privacy settings.
 - Firefox - Secondary browser when I need graphical support
 - Google Chrome - Used from time to time when support is critical
 - [KeePassXC](https://github.com/Kunzisoft/KeePassDX) - password manager (Android)
