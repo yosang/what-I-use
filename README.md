@@ -14,10 +14,13 @@ Tech I rely on.
 
 # Software
 ### Linux Essentials
-- [Alacritty](https://alacritty.org/) - Terminal of choice
+- Alacritty - Terminal of choice
 - Wine - Run windows applications that dont provide a Linux solution.
 - htop - Proccess monitoring
 - inxi - Hardware information
+- qimgv - Fast image viewer
+- Thunar - File Manager of choice
+- Featherpad - Basic text editor
 
 ### General
 - VLC - Media player of choice
