@@ -17,6 +17,7 @@ Tech I rely on.
 - [Alacritty](https://alacritty.org/) - Terminal of choice
 - Wine - Run windows applications that do no provide a Linux solution.
 - htop - Proccess monitoring
+- inxi - Hardware information
 
 ### General
 - VLC - Media player of choice
