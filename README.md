@@ -1,5 +1,7 @@
 # what-I-use
 
+Tech I rely on.
+
 **Hardware**
 - Lenovo Thinkpad T14 Gen 1 (Intel)
 
