@@ -11,7 +11,7 @@
 
 **Software**
 - [Git](https://git-scm.com/) - Version Control
-- [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager) - Git authentication up against github/gitlab
+- [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager) - OAuth for Github
 - [VSCode](https://code.visualstudio.com/) - Main IDE for code and notes
 - [Docker](https://docs.fedoraproject.org/en-US/quick-docs/installing-docker/) - Containerization
 - [NodeJs](https://nodejs.org/en) with npm and yarn
@@ -21,8 +21,10 @@
 - LibreWolf - Main browser to maintain privacy
 - Firefox - Secondary browser when I need graphical support
 - Google Chrome - Used from time to time when support is critical
-- [KeePassXC](https://github.com/Kunzisoft/KeePassDX) - password manager (Android), paired up with [KeyDriver](https://play.google.com/store/apps/details?id=com.kunzisoft.hardware.key&hl=en) and [YubiKey](https://www.yubico.com/no/product/yubikey-5-series/yubikey-5c-nfc/)
-- [KeePassDX](https://github.com/keepassxreboot/keepassxc) - Password manager (Desktop) paired up with [YubiKey](https://www.yubico.com/no/product/yubikey-5-series/yubikey-5c-nfc/)
+- [KeePassXC](https://github.com/Kunzisoft/KeePassDX) - password manager (Android)
+- [KeePassDX](https://github.com/keepassxreboot/keepassxc) - Password manager (Desktop)
+- [KeePass Browser Extension](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - KeePass Firefox addon
+- [YubiKey](https://www.yubico.com/no/product/yubikey-5-series/yubikey-5c-nfc/)
 - [Syncthing](https://github.com/syncthing/syncthing) - Synchronize all files between laptop and phone
 - [LocalSend](https://github.com/localsend/localsend) - Transfer files over network between laptop and phone
 - [actualbudget](https://github.com/actualbudget/actual) - Personal Finance budget tool
