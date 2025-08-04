@@ -2,25 +2,26 @@
 
 Tech I rely on.
 
-**Hardware**
+# Hardware
 - Lenovo Thinkpad T14 Gen 1 (Intel)
+- Google Pixel 7
 
-**OS**
-- [Linux Mint](https://linuxmint.com/) - Used as transition from Windows to Linux, to learn the ropes.
-- [Fedora 42 Cosmic](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/desktop/#fedora-cosmic-spin) - Used as transition to RHEL from Ubuntu to learn the rope. Fun Spin, but still in alpha, not stable for daily dev, might come back to later, liked the tiling system.
-- [Fedora 42 KDE Plasma](https://docs.fedoraproject.org/en-US/kde/) (Current)- Daily driver, for most dev work
-  - [dnf-automatic](https://docs.fedoraproject.org/en-US/quick-docs/autoupdates/) - handles automatic upgrades with automatic install
+# OS
+- [Linux Mint](https://linuxmint.com/) - Used during transition from Windows to Linux, to learn the ropes.
+- [Fedora 42 Cosmic](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/desktop/#fedora-cosmic-spin) - Used during transition to RHEL from Ubuntu to learn the ropes. Fun, but still in alpha, not stable for daily dev, might come back to later, enjoyed the tiling system.
+- **(Current)** - [Fedora 42 KDE Plasma](https://docs.fedoraproject.org/en-US/kde/) - Reliable distribution, been around for a long time and its stable enough for daily work.
+- **Current** - [GrapheneOs](https://grapheneos.org/) - Phone, with two users, one for google play services and one for daily usage.
 
-**Software**
-- [Git](https://git-scm.com/) - Version Control
-- [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager) - OAuth for Github
-- [VSCode](https://code.visualstudio.com/) - Main IDE for code and notes
-- [Docker](https://docs.fedoraproject.org/en-US/quick-docs/installing-docker/) - Containerization
-- [NodeJs](https://nodejs.org/en) with npm and yarn
-- MySQL - Mysql core
-- MYSQL Workbench - Used for reversed engineering database schemas / GUI Queries and schema interactions
-- Linear.app - Project management and issue tracking
-- LibreWolf - Main browser to maintain privacy
+# Software
+### Linux Essentials
+- [Alacritty](https://alacritty.org/) - Terminal Emulator of choice
+- Wine - Run windows applications that do no provide a Linux solution.
+- htop - Proccess monitoring
+
+### General
+- VLC - Media player of choice
+- Thunderbird - Email client of choice
+- LibreWolf - Browser of coice due to its privacy settings.
 - Firefox - Secondary browser when I need graphical support
 - Google Chrome - Used from time to time when support is critical
 - [KeePassXC](https://github.com/Kunzisoft/KeePassDX) - password manager (Android)
@@ -31,7 +32,17 @@ Tech I rely on.
 - [LocalSend](https://github.com/localsend/localsend) - Transfer files over network between laptop and phone
 - [actualbudget](https://github.com/actualbudget/actual) - Personal Finance budget tool
 
-**Sites**
+# Tools
+- [Git](https://git-scm.com/) - Version Control
+- [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager) - OAuth for Github
+- [VSCode](https://code.visualstudio.com/) - Main IDE for code and notes
+- [Docker](https://docs.fedoraproject.org/en-US/quick-docs/installing-docker/) - Containerization
+- [NodeJs](https://nodejs.org/en) with npm and yarn
+- MySQL - Mysql core
+- MYSQL Workbench - Used for reversed engineering database schemas / GUI Queries and schema interactions
+- Linear.app - Project management and issue tracking
+
+# Sites
 - [Fedora updates](https://bodhi.fedoraproject.org/) - Updates
 - [Fedora releases](https://bodhi.fedoraproject.org/releases/) - Releases
 - [Feodra quick docs](https://docs.fedoraproject.org/en-US/quick-docs/)
