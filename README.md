@@ -15,7 +15,7 @@ Tech I rely on.
 # Software
 ### Linux Essentials
 - [Alacritty](https://alacritty.org/) - Terminal of choice
-- Wine - Run windows applications that do no provide a Linux solution.
+- Wine - Run windows applications that dont provide a Linux solution.
 - htop - Proccess monitoring
 - inxi - Hardware information
 
