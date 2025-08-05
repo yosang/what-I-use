@@ -43,8 +43,7 @@ Tech I rely on.
 - [Docker](https://docs.fedoraproject.org/en-US/quick-docs/installing-docker/) - Containerization
 - [NodeJs](https://nodejs.org/en) with npm and yarn
 - MySQL - Mysql core
-- MYSQL Workbench - Used for reversed engineering database schemas / GUI Queries and schema interactions
-
+- MYSQL Workbench - Used for reversed engineering database schemas / SQL Queries
 # Sites
 - [Fedora updates](https://bodhi.fedoraproject.org/) - Updates
 - [Fedora releases](https://bodhi.fedoraproject.org/releases/) - Releases
