@@ -31,7 +31,7 @@ Tech I rely on.
 - [KeePassXC](https://github.com/Kunzisoft/KeePassDX) - password manager (Android)
 - [KeePassDX](https://github.com/keepassxreboot/keepassxc) - Password manager (Desktop)
 - [KeePass Browser Extension](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - KeePass Firefox addon
-- [YubiKey](https://www.yubico.com/no/product/yubikey-5-series/yubikey-5c-nfc/)
+- [YubiKey](https://www.yubico.com/no/product/yubikey-5-series/yubikey-5c-nfc/) - Used as an extra layer for security on keepass
 - [Syncthing](https://github.com/syncthing/syncthing) - Synchronize all files between laptop and phone
 - [LocalSend](https://github.com/localsend/localsend) - Transfer files over network between laptop and phone
 - [actualbudget](https://github.com/actualbudget/actual) - Personal Finance budget tool
@@ -44,7 +44,6 @@ Tech I rely on.
 - [NodeJs](https://nodejs.org/en) with npm and yarn
 - MySQL - Mysql core
 - MYSQL Workbench - Used for reversed engineering database schemas / GUI Queries and schema interactions
-- Linear.app - Project management and issue tracking
 
 # Sites
 - [Fedora updates](https://bodhi.fedoraproject.org/) - Updates
