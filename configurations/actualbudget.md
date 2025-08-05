@@ -1,4 +1,4 @@
-# Server Installation
+# Local Server Installation
 Get the latest version of source code, at this moment its `25.8.0`
 
 ```sh
@@ -35,3 +35,38 @@ Start the server
 yarn start:server
 ```
 
+## Configuration
+To automatically shoot up the server on reboot, we need to setup systemd service
+
+Create a `.service` file and place it in `/etc/systemd/system`
+
+```bash
+[Unit]
+Description=Actual Budget
+After=network.target
+
+[Service]
+WorkingDirectory=/home/yosang/.actual
+ExecStart=yarn start:server
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+```
+
+Reload the daemon `systemctl daemon-reload`
+
+Enable and start `sudo systemctl enable --now actual.service`
+
+# Dcoker image
+Pull from the actual official repo
+
+```sh
+docker pull actualbudget/actual-server
+```
+
+Run it
+
+```sh
+docker run --pull=always --restart=unless-stopped -d -p 5006:5006 -v /home/yosang/.sync/.db/actual:/data:Z actualbudget/actual-server:latest
+```
