@@ -3,16 +3,16 @@ Install temux from playstore or obtainium
 
 Then immidiately do `pkg update -y && pkg upgrafe -y` to update everything.
 
-# Access
-We want to give termux access to thr phone files with `termux-setup-storage`
+# Access to files
+We want to give termux access to the phone files with `termux-setup-storage`
 
-# Git
+# Install Git
 With temux running, install git with `pkg install git`
 
 # Git - SSH authentication
 
 ## shh
-Run `pkg install openssh`, if its not installed it will be, its alrrady installed it'll say it is
+Run `pkg install openssh`, if its not installed.
 
 ## shh-keygen
 Create a new key with `ssh-keygen -C [githubemail]` 
@@ -26,9 +26,19 @@ Public key and secret key are both stored in `~/.shh`
 authorized_keys  id_ed25519  id_ed25519.pub
 ```
 
-Copy thr key `cat id_ed25519.pub` and add it to github
+Copy the key with `cat id_ed25519.pub` and add it to github under `Settings > SSH > Add key`
 
-## Test connection
-Use `ssh -T git@github.com` to test connection, the `-T` flag allows us to open a connection without a pseufo terminal interactivity. In simple terms, we are just opening a connection without a terminal.
+# Check remotes
+Check with `git remote -v` 
 
-We should get something like
+The `.git` remotes should not be `https`, but `ssh` so make sure the remotes are set right otherwise we will have to change them.
+
+We can change them with `git remote set-url branch user@host:username/repo.git`
+
+```sh
+~/.../Notes/what-I-use $ git remote -v
+origin  git@github.com:yosang/what-I-use.git (fetch)
+origin  git@github.com:yosang/what-I-use.git (push)
+```
+## git push
+Do a push and go through the first time authentication and fingerprint confirmation
