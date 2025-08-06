@@ -1,5 +1,5 @@
 # Installation
-Install temux from playstore or obtainium
+Install termux from playstore or obtainium
 
 Then immidiately do `pkg update -y && pkg upgrafe -y` to update everything.
 
@@ -7,7 +7,7 @@ Then immidiately do `pkg update -y && pkg upgrafe -y` to update everything.
 We want to give termux access to the phone files with `termux-setup-storage`
 
 # Install Git
-With temux running, install git with `pkg install git`
+With termux running, install git with `pkg install git`
 
 # Git - SSH authentication
 
@@ -32,6 +32,9 @@ Copy the key with `cat id_ed25519.pub` and add it to github under `Settings > SS
 Check with `git remote -v` 
 
 The `.git` remotes should not be `https`, but `ssh` so make sure the remotes are set right otherwise we will have to change them.
+
+- `https` - `https://github.com/username/repo.git`
+- `ssh` . `user@host:username/repo.git`
 
 We can change them with `git remote set-url branch user@host:username/repo.git`
 
