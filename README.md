@@ -13,7 +13,7 @@ Tech I rely on.
 - **Current** - [GrapheneOs](https://grapheneos.org/) - Phone, with two users, one for google play services and one for daily usage.
 
 # Software
-### Linux Essentials
+### Essentials
 - Alacritty - Terminal of choice
 - Wine - Run windows applications that dont provide a Linux solution.
 - htop - Proccess monitoring
