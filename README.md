@@ -27,7 +27,6 @@ Tech I rely on.
 - Thunderbird - Email client of choice
 - LibreWolf - Browser of choice due to its privacy settings.
 - Firefox - Secondary browser when I need graphical support
-- Google Chrome - Used from time to time when support is critical
 - [KeePassXC](https://github.com/Kunzisoft/KeePassDX) - password manager (Android)
 - [KeePassDX](https://github.com/keepassxreboot/keepassxc) - Password manager (Desktop)
 - [KeePass Browser Extension](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - KeePass Firefox addon
@@ -44,6 +43,12 @@ Tech I rely on.
 - [NodeJs](https://nodejs.org/en) with npm and yarn
 - MySQL - Mysql core
 - MYSQL Workbench - Used for reversed engineering database schemas / SQL Queries
+
+# Upgrades
+- QEMU - For virtualization and replace the use for Wine for windows software
+- BorgBackup - For automated backups instead of manual
+- Lenovo Thinkpad T14 Gen 3 14" AMD Ryzen 7, 16GB RAM, 512GB SSD
+
 # Sites
 - [Fedora updates](https://bodhi.fedoraproject.org/) - Updates
 - [Fedora releases](https://bodhi.fedoraproject.org/releases/) - Releases
