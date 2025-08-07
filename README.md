@@ -44,11 +44,6 @@ Tech I rely on.
 - MySQL - Mysql core
 - MYSQL Workbench - Used for reversed engineering database schemas / SQL Queries
 
-# Upgrades
-- QEMU - For virtualization and replace the use for Wine for windows software
-- BorgBackup - For automated backups instead of manual
-- Lenovo Thinkpad T14 Gen 3 14" AMD Ryzen 7, 16GB RAM, 512GB SSD
-
 # Sites
 - [Fedora updates](https://bodhi.fedoraproject.org/) - Updates
 - [Fedora releases](https://bodhi.fedoraproject.org/releases/) - Releases
