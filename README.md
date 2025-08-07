@@ -19,7 +19,7 @@ Tech I rely on.
 - qimgv - Fast image viewer
 - Thunar - File Manager of choice
 - Featherpad - Basic text editor
-
+- yt-dlp - Offline media access
 ### General
 - [Obtainum](https://github.com/ImranR98/Obtainium) - Get apps directly from the source on android
 - [AppVerifier](https://github.com/soupslurpr/AppVerifier) - Check app signatures on android
