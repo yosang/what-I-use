@@ -1,25 +1,23 @@
 # what-I-use
 
-Tech I rely on.
+Ocassionaly I tend to experiment with new operative systems/Linux distros. This repo is supposed to represent the stack I usually start of using with a fresh installation.
 
 # Hardware
 - Lenovo Thinkpad T14 Gen 1 (Intel)
 - Google Pixel 7
 
 # OS
-- [Fedora KDE Plasma](https://docs.fedoraproject.org/en-US/kde/)
-- [GrapheneOs](https://grapheneos.org/)
+- [Debian GNU/Linux](https://www.debian.org/)
 
 # Software
 ### Essentials
 - Alacritty - Terminal of choice
-- Wine - Run windows applications that dont provide a Linux solution.
 - htop - Proccess monitoring
 - inxi - Hardware information
 - qimgv - Fast image viewer
 - Thunar - File Manager of choice
 - Featherpad - Basic text editor
-- yt-dlp - Offline media access
+
 ### General
 - [Obtainum](https://github.com/ImranR98/Obtainium) - Get apps directly from the source on android
 - [AppVerifier](https://github.com/soupslurpr/AppVerifier) - Check app signatures on android
@@ -33,7 +31,7 @@ Tech I rely on.
 - [YubiKey](https://www.yubico.com/no/product/yubikey-5-series/yubikey-5c-nfc/) - Used as an extra layer of security
 - [Syncthing](https://github.com/syncthing/syncthing) - Synchronize all files between laptop and phone
 - [LocalSend](https://github.com/localsend/localsend) - Transfer files over network between laptop and phone
-- [actualbudget](https://github.com/actualbudget/actual) - Personal Finance budget tool
+- [actualbudget](https://github.com/actualbudget/actual) - Personal Finance budget tool - Running on a docker image
 
 # Tools
 - [Git](https://git-scm.com/) - Version Control
@@ -43,9 +41,3 @@ Tech I rely on.
 - [NodeJs](https://nodejs.org/en) with npm and yarn
 - MySQL - Mysql core
 - MYSQL Workbench - Used for reversed engineering database schemas / SQL Queries
-
-# Sites
-- [Fedora updates](https://bodhi.fedoraproject.org/) - Updates
-- [Fedora releases](https://bodhi.fedoraproject.org/releases/) - Releases
-- [Feodra quick docs](https://docs.fedoraproject.org/en-US/quick-docs/)
-- [ss64.com](https://ss64.com/) / [tldr.sh](https://tldr.sh/) - Man pages
