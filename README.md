@@ -34,7 +34,7 @@ Technology I use.
 
 # Tools
 - [Git](https://git-scm.com/) - Version Control
-- [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager) - OAuth for Github
+- [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager) - OAuth for Github configured with KeePassXC secretservice integration
 - [VSCode](https://code.visualstudio.com/) - Main IDE for code and notes
 - [Docker](https://docs.fedoraproject.org/en-US/quick-docs/installing-docker/) - Containerization
 - [NodeJs](https://nodejs.org/en) with npm and yarn
