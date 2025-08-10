@@ -12,11 +12,9 @@ Technology I use.
 # Software
 ### Essentials
 - Alacritty - Terminal of choice
-- htop - Proccess monitoring
-- inxi - Hardware information
-- qimgv - Fast image viewer
-- Thunar - File Manager of choice
-- Featherpad - Basic text editor
+- qimgv - image viewer
+- Thunar - File Manager
+- Featherpad - Text editor
 
 ### General
 - [Obtainum](https://github.com/ImranR98/Obtainium) - Get apps directly from the source on android
