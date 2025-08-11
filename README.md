@@ -26,13 +26,14 @@ Technology I use.
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Password manager (Desktop)
 - [KeePass Browser Extension](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - KeePass Firefox addon
 - [YubiKey](https://www.yubico.com/no/product/yubikey-5-series/yubikey-5c-nfc/) - Used as an extra layer of security
-- [actualbudget](https://github.com/actualbudget/actual) - Personal Finance budget tool - Running on a docker image
+- [actualbudget](https://github.com/actualbudget/actual) - Personal Finance budget tool - Running server on a docker image and client on a flatpack container as well as browser through a `.desktop` file
 
 # Tools
 - [Git](https://git-scm.com/) - Version Control
 - [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager) - OAuth for Github configured with [KeePassXC](https://github.com/keepassxreboot/keepassxc) secretservice integration
 - [VSCode](https://code.visualstudio.com/) - Main IDE for code and notes
 - [Docker](https://docs.fedoraproject.org/en-US/quick-docs/installing-docker/) - Containerization
+- [Flatpak](https://flatpak.org/) - Sandboxed apps
 - [NodeJs](https://nodejs.org/en) with npm and yarn
 - MySQL - Mysql core
 - MYSQL Workbench - Used for reversed engineering database schemas / SQL Queries
