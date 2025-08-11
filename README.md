@@ -14,6 +14,7 @@ Technology I use.
 - [Syncthing](https://github.com/syncthing/syncthing) - Synchronize all files between laptop and phone
 - [Syncthing Tray](https://martchus.github.io/syncthingtray/) - Little software that provides easy access to syncthing from the tray, kind of like how OneDrive works.
 - [Timeshift](https://github.com/linuxmint/timeshift) - System snapshots, in case I break something.
+- [DejaDup](https://apps.gnome.org/en/DejaDup/) - File backups
 - [LocalSend](https://github.com/localsend/localsend) - Transfer files over network between laptop and phone
 
 ### General
