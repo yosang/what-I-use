@@ -21,7 +21,7 @@ Technology I use.
 - [Obtainum](https://github.com/ImranR98/Obtainium) - Get apps directly from the source on android
 - [AppVerifier](https://github.com/soupslurpr/AppVerifier) - Check app signatures on android
 - Thunderbird - Email client
-- Firefox - Browser
+- Firefox - Internet Browser
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) - password manager (Android)
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Password manager (Desktop)
 - [KeePass Browser Extension](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - KeePass Firefox addon
@@ -39,3 +39,4 @@ Technology I use.
 - [NodeJs](https://nodejs.org/en) with npm and yarn
 - MySQL - Mysql core
 - MYSQL Workbench - Used for reversed engineering database schemas / SQL Queries
+- [Postman](https://flathub.org/apps/com.getpostman.Postman) - API Management and testing
