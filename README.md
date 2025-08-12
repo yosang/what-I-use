@@ -14,7 +14,6 @@ Everyday technology
 - Thunderbird - Email client
 - Firefox - Internet Browser
 - [LocalSend](https://github.com/localsend/localsend) - Transfer files over network between laptop and phone
-- [Vorta](https://vorta.borgbase.com/) - File Backups
 - [Syncthing](https://github.com/syncthing/syncthing) - File synchronization between devices
 - [Actualbudget docker](https://hub.docker.com/r/actualbudget/actual-server) - Personal Finance budget tool - Docker server image
 - [Actualbudget flatpak](https://github.com/actualbudget/actual/releases) Actual budget client running on flatpak.
