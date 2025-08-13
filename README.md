@@ -1,22 +1,17 @@
-# what-I-use
-
-Everyday technology
-
 # Hardware
 - Lenovo Thinkpad T14 Gen 1 (Intel)
 
 # OS
-- Fedora 42 Cosmic
+- Linux
 
 # Software
 
 ### General
 - Thunderbird - Email client
 - Firefox - Internet Browser
-- [LocalSend](https://github.com/localsend/localsend) - Transfer files over network between laptop and phone
 - [Syncthing](https://github.com/syncthing/syncthing) - File synchronization between devices
+- [LocalSend](https://github.com/localsend/localsend) - Transfer files over network between laptop and phone
 - [Actualbudget docker](https://hub.docker.com/r/actualbudget/actual-server) - Personal Finance budget tool - Docker server image
-- [Actualbudget flatpak](https://github.com/actualbudget/actual/releases) Actual budget client running on flatpak.
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) - password manager for Android
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Password manager for Desktop
 - [KeePass Browser Extension](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - KeePass exntension for Firefox
