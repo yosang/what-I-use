@@ -16,6 +16,7 @@
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Password manager for Desktop
 - [KeePass Browser Extension](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - KeePass exntension for Firefox
 - [YubiKey](https://www.yubico.com/no/product/yubikey-5-series/yubikey-5c-nfc/) - Physical key for another extra layer of security
+- [gtimeog](https://github.com/gtimelog/gtimelog) - Simple time tracker
 
 # Tools
 - [Git](https://git-scm.com/) - Version Control
