@@ -28,5 +28,5 @@
 - [NodeJs](https://nodejs.org/en) - Runtime for web development
 - [NPM](https://www.npmjs.com/) - Node Package Manager
 - [Postman](https://flathub.org/apps/com.getpostman.Postman) - API Management and testing
-- MySQL - Mysql core
-- MYSQL Workbench - Used for reversed engineering database schemas / SQL Queries
+- [MySQL](https://docs.fedoraproject.org/en-US/quick-docs/installing-mysql-mariadb/#_install_from_oracle_mysql) - Mysql server
+- MYSQL Workbench - Visual tool for database management
