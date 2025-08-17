@@ -7,8 +7,8 @@
 # Software
 
 ### General
-- Thunderbird - Email client
-- Firefox - Internet Browser
+- [Thunderbird](https://rpmfind.net/linux/rpm2html/search.php?query=thunderbird&submit=Search+...) - Email client
+- [Firefox](https://rpmfind.net/linux/rpm2html/search.php?query=firefox&submit=Search+...) - Internet Browser
 - [Syncthing](https://github.com/syncthing/syncthing) - File synchronization between devices
 - [LocalSend](https://github.com/localsend/localsend) - Transfer files over network between laptop and phone
 - [Actualbudget docker](https://hub.docker.com/r/actualbudget/actual-server) - Personal Finance budget tool - Docker server image
