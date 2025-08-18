@@ -1,10 +1,5 @@
-# Hardware
-- Lenovo Thinkpad T14 Gen 1 (Intel)
-
-# OS
-- Linux
-
-# Software
+# About
+Applications and configurations.
 
 ### General
 - [Thunderbird](https://rpmfind.net/linux/rpm2html/search.php?query=thunderbird&submit=Search+...) - Email client
@@ -18,7 +13,7 @@
 - [YubiKey](https://www.yubico.com/no/product/yubikey-5-series/yubikey-5c-nfc/) - Physical key for another extra layer of security
 - [gtimelog](https://github.com/gtimelog/gtimelog) - Simple time tracker
 
-# Tools
+### Tools
 - [Git](https://git-scm.com/) - Version Control
 - [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager) - OAuth configured with [KeePassXC](https://github.com/keepassxreboot/keepassxc) secretservice integration
 - [VSCode](https://code.visualstudio.com/) - IDE for code and notes
