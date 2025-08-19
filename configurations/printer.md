@@ -33,8 +33,16 @@ We can find a lot of documentation at: http://localhost:631/help/options.html
 
 Print a test page from the browser or from command line with `tp`
 
-Two commands:
+## Commands:
+
+### Printing
 - `lp` - Print files
-    - `lp -d [printer_name] [file_to_print.txt]` - Will print a specific file on a specific printer
+- `lp [file_to_print.txt]` - Will print a file to a default printer
+- `lp -d [printer_name] [file_to_print.txt]` - Will print a specific file on a specific printer
+
+### Printers
 - `lpstat` - CUPS management, such as show completed/pending jobs, show printers etc.
-    - `lpstat -p` - Will show printers
+- `lpstat -p` - Will show printers
+
+### Defaults
+- `lpoptions -d [printer_name]` - Will set a specific printer as default
