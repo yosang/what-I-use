@@ -28,6 +28,9 @@ Just follow the instruction for each driver.
 Open cups on the browser, port is `631`
 
 # Test the printer
+
+We can find a lot of documentation at: http://localhost:631/help/options.html
+
 Print a test page from the browser or from command line with `tp`
 
 Two commands:
