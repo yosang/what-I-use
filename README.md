@@ -7,7 +7,7 @@ Applications and configurations.
     - [KeePass Browser Extension](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - KeePass exntension for Firefox
     - [Export Cookies](https://addons.mozilla.org/en-US/firefox/addon/export-cookies-txt/) - Self explanatory extension name
     - [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Download entire pages a single HTML file that can be annotated and worked on
-    - [SingleFile CLI](https://github.com/gildas-lormeau/single-file-cli) - Same as above, but on the termianl, no browser dependency
+- [SingleFile CLI](https://github.com/gildas-lormeau/single-file-cli) - CLI based webpage to HTML downloader
 - [Syncthing](https://github.com/syncthing/syncthing) - File synchronization between devices
 - [LocalSend](https://github.com/localsend/localsend) - Transfer files over network between laptop and phone
 - [Actualbudget](https://hub.docker.com/r/actualbudget/actual-server) - Personal Finance budget tool - Docker server image
