@@ -4,12 +4,10 @@ Applications and configurations.
 ### General
 - [Thunderbird](https://rpmfind.net/linux/rpm2html/search.php?query=thunderbird&submit=Search+...) - Email client
 - [Firefox](https://rpmfind.net/linux/rpm2html/search.php?query=firefox&submit=Search+...) - Internet Browser
-    - [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Extension that enables dark mode on most websites by default
     - [KeePass Browser Extension](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - KeePass exntension for Firefox
     - [Export Cookies](https://addons.mozilla.org/en-US/firefox/addon/export-cookies-txt/) - Self explanatory extension name
-    - [Highlighter](https://addons.mozilla.org/en-US/firefox/addon/highlighter-notes/) - Highlight text on most pages
-- [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Download entire pages a single HTML file that can be annotated and worked on
-- [SingleFile CLI](https://github.com/gildas-lormeau/single-file-cli) - Same as above, but on the termianl, no browser dependency
+    - [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Download entire pages a single HTML file that can be annotated and worked on
+    - [SingleFile CLI](https://github.com/gildas-lormeau/single-file-cli) - Same as above, but on the termianl, no browser dependency
 - [Syncthing](https://github.com/syncthing/syncthing) - File synchronization between devices
 - [LocalSend](https://github.com/localsend/localsend) - Transfer files over network between laptop and phone
 - [Actualbudget](https://hub.docker.com/r/actualbudget/actual-server) - Personal Finance budget tool - Docker server image
@@ -17,7 +15,6 @@ Applications and configurations.
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Password manager for Desktop
 - [YubiKey](https://www.yubico.com/no/product/yubikey-5-series/yubikey-5c-nfc/) - Physical key for another extra layer of security
 - [gtimelog](https://github.com/gtimelog/gtimelog) - Simple time tracker
-- [Waydroid](https://waydro.id/) - Run Android apps on Linux
 
 ### Tools
 - [Git](https://git-scm.com/) - Version Control
